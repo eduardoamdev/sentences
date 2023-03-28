@@ -1,5 +1,7 @@
 # Sentences
 
+<img src="./images/java-image.png" alt="java-image" />
+
 ## Descripción
 
 Esta aplicación consiste en un pequeño backend montado con Java que nos permite inyectar frases en una base de datos PostgreSQL y también visualizar todas las frases existentes.
